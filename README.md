@@ -60,7 +60,7 @@ Here is a brief specification of the route building part of the program:
 # Simulation
 -![Simulation](https://github.com/sydalirza/Metro-Bus-Simulator/blob/main/Simulation.png)
 
-# Collaboratars
+# Collaborators
 - Qalb-e-Ali
 - Syed Musaib Hussain
 - Muhammad Tayyab
