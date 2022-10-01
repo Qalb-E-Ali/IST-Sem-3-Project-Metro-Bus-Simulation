@@ -15,6 +15,13 @@ After the route is created, the program creates a Bus object and passes the rout
 
 After the traversal is complete, the program will automatically clear the route, and return control to the user from the main menu.
 
+# Libraries Used
+- [Graphics.py](https://mcsp.wartburg.edu/zelle/python/graphics.py)
+- Tkinter
+
+# Data Structure Used
+- Linked List 
+
 # Specifications
 Here is a brief specification of the route building part of the program:
 - i.	On creation of simulation window, the program creates a two-dimensional grid using nested for-looping technique. A grid point is placed after a certain number of pixels to keep spaces between vertices.
@@ -44,7 +51,17 @@ Here is a brief specification of the route building part of the program:
 - vii.	If the bus encounters a station which is meant to be skipped, it will not pick or drop any passengers at that station.
 
 # Screenshots
-![Main Menu](https://github.com/sydalirza/Metro-Bus-Simulator/blob/main/Main%20Menu.png)
-![Station Menu](https://github.com/sydalirza/Metro-Bus-Simulator/blob/main/Station%20Menu.png)
-![Station List](https://github.com/sydalirza/Metro-Bus-Simulator/blob/main/Station%20List.png)
-![Simulation](https://github.com/sydalirza/Metro-Bus-Simulator/blob/main/Simulation.png)
+# Main Menu
+-![Main Menu](https://github.com/sydalirza/Metro-Bus-Simulator/blob/main/Main%20Menu.png)
+# Station Menu
+-![Station Menu](https://github.com/sydalirza/Metro-Bus-Simulator/blob/main/Station%20Menu.png)
+# Station List
+-![Station List](https://github.com/sydalirza/Metro-Bus-Simulator/blob/main/Station%20List.png)
+# Simulation
+-![Simulation](https://github.com/sydalirza/Metro-Bus-Simulator/blob/main/Simulation.png)
+
+# Collaboratars
+- Qalb-e-Ali
+- Syed Musaib Hussain
+- Muhammad Tayyab
+- Hamza Humayune
