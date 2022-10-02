@@ -62,6 +62,7 @@ Here is a brief specification of the route building part of the program:
 
 # Collaborators
 - Qalb-e-Ali
+- Syed Ali Raza
 - Syed Musaib Hussain
 - Muhammad Tayyab
 - Hamza Humayune
