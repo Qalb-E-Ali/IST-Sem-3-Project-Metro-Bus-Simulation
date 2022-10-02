@@ -1,5 +1,5 @@
 # Metro Bus Simulator
-We created a simulation of a metro system using concepts of Data Structures and Algorithms as our end semester project.  This project was created using Python.
+We created a simulation of a metro system using concepts of Data Structures and Algorithms as our 3rd semester project.  This project was created using Python.
 
 # Introduction
 To put our concepts in practice, we have created a program for our semester project, which simulates route traversal of a bus on any given random path it has been provided. It has also been integrated into a visual interface, which helps us visualize the traversal in real-time.
